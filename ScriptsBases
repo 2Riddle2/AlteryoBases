@@ -1,6 +1,7 @@
 local games = {
 	arsenal = {21341412,"Arsenal"},
-	cbro = {14214214,"CB:RO"}
+	cbro = {14214214,"CB:RO"},
+	flagwar = {14214214,"Flag Wars!"}
 }
 
 local scripts = {
