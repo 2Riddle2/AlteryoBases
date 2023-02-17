@@ -14,3 +14,10 @@ local scripts = {
 	end, 
 	"Darkrai X"}
 }
+
+local function getscripts()
+	return scripts;
+end
+local function getgames()
+	return games;
+end
