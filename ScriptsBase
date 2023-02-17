@@ -1,0 +1,8 @@
+local games = {
+	arsenal = {21341412,"Arsenal"},
+	cbro = {14214214,"CB:RO"}
+}
+
+local scripts = {
+	alteryo = {"Arsenal",func = function() loadstring() end,}
+}
