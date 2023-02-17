@@ -18,6 +18,9 @@ local scripts = {
 	end},
 	bloxsense = {"CB:RO","BloxSense X",func = function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/2Riddle2/Scripts/main/BloxSense"))() 
+	end},
+	bloxsense = {"Flag Wars!","Unnamed",func = function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/2Riddle2/Scripts/main/FlagWarsUnnamed"))() 
 	end}
 }
 
