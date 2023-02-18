@@ -25,7 +25,7 @@ local scripts = {
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/2Riddle2/Scripts/main/FlagWarsUnnamed"))() 
 	end},
 	Illusion = {"AIMBLOX BETA","Illusion",func = function()
-		loadstring(game:HttpGet("https://projectillusion.dev/beta/illusion/illusion_aimblox.lua"))()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/2Riddle2/Scripts/main/illusion"))()
 	end},
 	tcbirb = {"Typical Colors 2","Birb Rage",func = function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/Trashjpg/Rage/main/TC2.lua"))()
