@@ -18,7 +18,7 @@ local scripts = {
 		end) 
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/Storm99999/cracked/main/arsenal"))() 
 	end},
-	neverblox = {"CB:RO","NeverBlox",func = function()
+	neverblox = {"CB:RO","NeverBlox Detected",func = function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/sinret/rbxscript.com-scripts-reuploads-/main/nvrlse", true))()
 	end},
 	flagwarsunnamed = {"Flag Wars!","Unnamed",func = function()
