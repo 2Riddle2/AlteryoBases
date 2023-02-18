@@ -24,7 +24,7 @@ local scripts = {
 	flagwarsunnamed = {"Flag Wars!","Unnamed",func = function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/2Riddle2/Scripts/main/FlagWarsUnnamed"))() 
 	end},
-	Illusion = {"AIMBLOX BETA","Illusion",func = function()
+	Illusion = {"AIMBLOX BETA","Illusion use after join to game",func = function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/2Riddle2/Scripts/main/illusion"))()
 	end},
 	tcbirb = {"Typical Colors 2","Birb Rage",func = function()
